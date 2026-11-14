@@ -1,0 +1,4 @@
+name = "Pathfinder Bot"
+author = "community"
+version = "0.1.0"
+description = "Go-Explore route search over the real physics: finds a path to the finish, including hook/jump/weapon shortcuts, and writes it to the timeline."
